@@ -8,6 +8,6 @@ text files: Just a plain text file. Works better on longer inputs
 
 order: The higher the order the more "sense" it will make since the following character depends on a higher number of characers, however when choosing a high order make sure you have a sufficient text file (high orders don't work well on small text files).
 
-I've supplied 2 text files for you to test out, nytimes_content and nytimes_content_tech. nytimes_content is all the homepage articles from the nytimes and the other is all the articles from the nytimes technology section.
+There are two sample files supplied, nytimes_content and nytimes_content_tech. nytimes_content is all the homepage articles from the nytimes and the other is all the articles from the nytimes technology section.
 
 
